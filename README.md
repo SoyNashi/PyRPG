@@ -7,6 +7,8 @@ Also i simplified the game by making all in one page. By the moment idk how to c
 I used python because its more simple and i can use libraries.
 The structure of the code is a bit messy but i made all by functions so i can go back and foward in the game more easy. Some variables are copies of other because it didnt work fine or idk but in that way it worked so i won't touch it.
 ## HE GAME IS IN SPANISH, IM WORKING ON A TRADUCTION TO ENGLISH.
+But it will take me some time because the variables are in spanish and catalan and I would have to change everything. The spanish version i would leave it as is and i will improve the english version. 
+But downt worry because the spanish version has no bugs (or not that i see, maybe 5 or 6 but not in the game).
 
 ## Instalation
 Install the requiered libraries. (i think that requieriments are well made but if it doesn't install then u will have to install all the libraries by hand, theres only 5)

@@ -1,0 +1,3 @@
+.LOG
+12:31 10/1/2024
+I changed all the variables, some of them were actually in english so no big problem.

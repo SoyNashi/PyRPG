@@ -15,5 +15,16 @@ But downt worry because the spanish version has no bugs (or not that i see, mayb
 
 ## Instalation
 Install the requiered libraries. (i think that requieriments are well made but if it doesn't install then u will have to install all the libraries by hand, theres only 5)
-``` pip install requieriments.txt
+``` pip install requieriments.txt ``` 
 
+# To Do
+Heres a list of what things i have to make.
+- translate to english.
+  - Translate all variables
+  - maybe make a code that grabs text from another file and in that way i can make that the game in more languages.
+    - Make the code
+    - make a switch option in the menu
+    - export all texts into files in the correct folder
+    - translate the files
+- Clean the code, make it more easy to see.
+- Publish this repository somwere so someone can see it and hopefly help me.

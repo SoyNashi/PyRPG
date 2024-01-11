@@ -15,7 +15,7 @@ It may be veeeery slow, but i didnt find anithing better. I tryed a library call
 If you know any other library that can do the job better without having to do a variable of the text. let me explain.
 
 Now the traduction is made like this
-'''
+```
 lang = "en" # the language
 
 def anithing():
@@ -23,7 +23,7 @@ def anithing():
   traductor = GoogleTranslator(source='es', target=lang) # shortcut for the next code
 
   print(traductor.translate("Hola")) # the code on the print
-'''
+```
 And the result is "hello".
 If anyone know a library more fast but that work like this im interested
 

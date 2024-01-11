@@ -856,7 +856,7 @@ def elejir_personaje():
   print("█▄▄ █▄█ █░▀░█ █▄█   █▄█ █▄█ █▄█ █▀█ █▀▄ " + colorama.Fore.LIGHTMAGENTA_EX + "░▄")
   print(colorama.Fore.RESET)
   print(traductor.translate("Para moverte entre las diferentes opciones tienes que usar") + colorama.Fore.GREEN + " " + traductor.translate("las teclas 🠕 y 🠗") + " " + colorama.Fore.WHITE + traductor.translate("y para aceptar tienes que usar") + " " + colorama.Fore.GREEN + traductor.translate("ENTER") + colorama.Fore.WHITE + ".")
-  print(traductor.translate("Si quieres una partida") + colorama.Fore.LIGHTGREEN_EX + " " + traductor.translate("facil") + colorama.Fore.RESET + traductor.translate(", recomendamos que eligas") + " " + colorama.Fore.RED + traductor.translate("el arquero") + colorama.Fore.WHITE + "."))
+  print(traductor.translate("Si quieres una partida") + colorama.Fore.LIGHTGREEN_EX + " " + traductor.translate("facil") + colorama.Fore.RESET + traductor.translate(", recomendamos que eligas") + " " + colorama.Fore.RED + traductor.translate("el arquero") + colorama.Fore.WHITE + ".")
   print(traductor.translate("Si quieres una partida") + colorama.Fore.LIGHTGREEN_EX + " " + traductor.translate("normal") + colorama.Fore.RESET + traductor.translate(", recomendamos que eligas") + " " + colorama.Fore.RED + traductor.translate("el mago") + colorama.Fore.WHITE + ".")
   print(traductor.translate("Si quieres una partida") + colorama.Fore.LIGHTGREEN_EX + " " + traductor.translate("dificil") + colorama.Fore.RESET + traductor.translate(", recomendamos que eligas") + " " + colorama.Fore.RED + traductor.translate("el guerrero") + colorama.Fore.WHITE + ".")
   Mago = colorama.Fore.BLUE + traductor.translate("Mago - normal")

@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "repl-nix-pyrpg"
+version = "2.0"
+description = ""
+authors = ["soyNashi"]
+readme = "README.md"
+packages = [{include = "repl_nix_pyrpg"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+colorama = "^0.4.6"
+bullet = "^2.2.0"
+googletrans = "^3.0.0"
+goslate = "^1.5.4"
+deep-translator = "^1.11.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

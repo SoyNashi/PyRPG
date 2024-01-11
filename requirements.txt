@@ -1,5 +1,4 @@
-
-os
-random
-bullet==2.2.0
-colorama==0.4.6
+python == 3.10
+colorama == 0.4.6
+bullet == 2.2.0
+deep-translator == 1.11.4

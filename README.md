@@ -10,9 +10,9 @@ The structure of the code is a bit messy but i made all by functions so i can go
 U can make branches but i would prefer that u just comment wat i can improve so i learn.
 
 ## Traduction
-In the next version the game will be in a variety of languages. Main language is spanish. If you use any other language it can slow down the game because I used a library thet traduces the text by online conection to google translator.
+Main language is spanish. If you use any other language it can slow down the game because I used a library thet traduces the text by online conection to google translator.
 It may be veeeery slow, but i didnt find anithing better. I tryed a library called goselate but it gave me an error because i was trying to traduce so many lines, but i have to so it didnt work for me.
-If you know any other library that can do the job better without having to do a variable of the text. let me explain.
+If you know any other library that can do the job better without having to do a variable of the text. let me explain. The traduction is bad because is made by google and some words or the structure of the text in spanish is not the same.
 
 Now the traduction is made like this
 ```
@@ -29,5 +29,8 @@ If anyone know a library more fast but that work like this im interested
 
 ## Instalation
 Install the requiered libraries. (i think that requieriments are well made but if it doesn't install then u will have to install all the libraries by hand, theres only 5)
-``` pip install requieriments.txt ``` 
+```
+pip install requieriments.txt 
+``` 
+The file ````ERASETHIS.pythonlibs.7zERASETHIS.json```` is not a virus, is the folder of libraries after being compressed into a 7z and changed a name, you have to erase tje .json extension and the 2 "ERASEME" letting the file called ````.pythonlibs.7z````, i tryed and it works but dont modify the .json or it will break
 
